@@ -1,0 +1,26 @@
+# UE generated folders — never commit these
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Packaged builds
+Packaged/
+Windows/
+WindowsNoEditor/
+
+# Visual Studio / Rider / IDE files
+.vs/
+.vsconfig
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS junk
+.DS_Store
+Thumbs.db
